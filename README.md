@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Titus 👋
 
 <!--
 **Titus-Cheung-STEM/Titus-Cheung-STEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
