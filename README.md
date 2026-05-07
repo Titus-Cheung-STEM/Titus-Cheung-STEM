@@ -1,7 +1,7 @@
 ### Hi, I'm Titus!
 
 I'm a high school freshman currently diving deep into the world of Computer Science.
-
+ 
 ### What I'm working on:
 - Mastering C through Harvard's CS50x.
 - Exploring STEM projects and building problem-solving skills.
