@@ -8,3 +8,4 @@ I'm a high school freshman currently diving deep into the world of Computer Scie
 - Learning version control with GitHub.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Titus-Cheung-STEM&theme=radical)
+![Titus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Titus-Cheung-STEM&show_icons=true&theme=radical&hide_rank=true)
